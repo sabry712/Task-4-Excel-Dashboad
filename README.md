@@ -1,4 +1,4 @@
-# Task-4-Excel-Dashboad
+# Task-4-Excel-Dashboard
 # 📊 Sales Analytics Dashboard
 
  An Excel dashboard to analyze **sales amount, total sales, products, monthly sales, and regional performance**.
